@@ -1,4 +1,4 @@
-from xperimental_data_conv.main import XDC
+from main import XDC
 import unittest
 import os
 

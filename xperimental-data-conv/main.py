@@ -8,8 +8,7 @@ import os
 import pandas as pd
 from openpyxl import load_workbook
 import numpy as np
-import re
-
+import re      
 
 class XDC:
 
@@ -477,5 +476,3 @@ class XDE:
         book.close()
 
         return
-
-

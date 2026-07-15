@@ -1,2 +1,4 @@
 ﻿excel2flapjack~=1.0.2
 excel2sbol~=1.0.24
+sbol2>=1.4,<2
+openpyxl>=3.1,<4
